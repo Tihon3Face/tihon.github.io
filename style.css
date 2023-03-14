@@ -74,7 +74,7 @@ h1,h2{
 .background__1{
     margin:auto;
     padding-top:60px;
-    background: linear-gradient(10deg,#DB7E7E 30%,#FFC997 60%,#FFC997 70%,#FFFFFF 50%);
+    background: linear-gradient(5deg,#DB7E7E 30%,#FFC997 60%,#FFC997 70%,#FFFFFF 50%);
 }
 .about{
     max-width:1000px;
